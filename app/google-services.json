@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697426766954",
+    "project_id": "rakt-nidhi",
+    "storage_bucket": "rakt-nidhi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697426766954:android:c7a796af584c97ae126e13",
+        "android_client_info": {
+          "package_name": "com.example.raktnidhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697426766954-c50stavmjs8ka0bd2f57reh7qkdnqij3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKf6z9kb2-dKbnJ9PMtT15yuyHdAkaVQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697426766954-c50stavmjs8ka0bd2f57reh7qkdnqij3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
